@@ -30,7 +30,7 @@ An intelligent file renaming tool that automatically extracts names from metadat
 
 1. **Clone the repository:**
    
-   git clone https://github.com/yourusername/smart-file-labeler.git
+   git clone https://github.com/Shega-PT/smart-file-labeler.git
    cd smart-file-labeler
 
 
@@ -140,7 +140,7 @@ Submit Code - Fix bugs or add features via pull requests
 Development Setup
 
 # Clone and setup development environment
-git clone https://github.com/yourusername/smart-file-labeler.git
+git clone https://github.com/Shega-PT/smart-file-labeler.git
 cd smart-file-labeler
 
 # Install development dependencies
